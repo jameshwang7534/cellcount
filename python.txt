@@ -1,4 +1,11 @@
 Python 2.b:
+
+b_cell: p-value = 0.1775
+cd8_t_cell: p-value = 0.5209
+cd4_t_cell: p-value = 0.0104
+nk_cell: p-value = 0.0821
+monocyte: p-value = 0.0210
+
 Among the five immune cell populations, cd4_t_cell and monocyte show statistically significant differences 
 in relative frequencies between responders and non-responders (p-values of 0.0104 and 0.0210, respectively), 
 suggesting they may be associated with treatment response.
