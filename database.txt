@@ -1,0 +1,9 @@
+1. To organize the data, I’d use a database with separate tables for projects, patients, samples, and cell counts. 
+Each project would have its own ID and name. Patients (called subjects) would be linked to a project and have info 
+like age, sex, and disease type.
+
+Each sample would be linked to a patient and would include details like sample type (for example, PBMC), treatment (like tr1), response (yes or no), and when the sample was taken. 
+The actual immune cell data (like b_cell, cd4_t_cell, etc.) would go into a cell counts table, which would include both the number of cells and the percentage for each population.
+
+2. Using a database makes it easier to organize and manage large amounts of data. It helps keep everything consistent, like linking each sample to the right patient. 
+You can also quickly search and analyze the data using queries, which saves time. It’s better than using spreadsheets, especially when working with many projects or people.

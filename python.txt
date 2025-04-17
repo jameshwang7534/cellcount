@@ -1,0 +1,4 @@
+Python 2.b:
+Among the five immune cell populations, cd4_t_cell and monocyte show statistically significant differences 
+in relative frequencies between responders and non-responders (p-values of 0.0104 and 0.0210, respectively), 
+suggesting they may be associated with treatment response.
